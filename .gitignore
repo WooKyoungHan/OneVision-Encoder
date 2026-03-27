@@ -516,3 +516,6 @@ _codeql*
 !llava_next/examples/training_data_demo/output/**
 !llava_next/examples/training_data_demo/videos/
 !llava_next/examples/training_data_demo/videos/*.mp4
+
+
+llava_next/Compressed_Video_Reader/ffmpeg/
