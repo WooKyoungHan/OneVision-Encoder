@@ -56,6 +56,7 @@ chmod +x ./configure || exit 1
   --extra-libs="-lpthread -lm" \
   --bindir="${SCRIPT_DIR}/ffmpeg_install/bin" \
   --enable-pic \
+  --disable-asm \
   --disable-doc \
   --disable-yasm \
   --disable-programs
